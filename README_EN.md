@@ -151,6 +151,3 @@ species_data/
 - Species knowledge graph source data preparation
 - Experiments on taxonomy-tree traversal and web crawling
 
-## License
-
-If you plan to publish this project as open source, add an appropriate license, such as the MIT License. Usage of the collected data should follow the original website's data license and citation requirements.
